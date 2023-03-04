@@ -1,0 +1,255 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/main.qml</file>
+        <file>QML/About_Machine.qml</file>
+        <file>QML/AutoLearn.qml</file>
+        <file>QML/BrightnessandVolume.qml</file>
+        <file>QML/ConfigureAutoValidation.qml</file>
+        <file>QML/ConfigureESignature.qml</file>
+        <file>QML/CustmerSettings.qml</file>
+        <file>QML/DateAndTime.qml</file>
+        <file>QML/DD_on_off.qml</file>
+        <file>QML/Factory_Settings.qml</file>
+        <file>QML/Filter_Setting.qml</file>
+        <file>QML/History.qml</file>
+        <file>QML/LastDefectValues.qml</file>
+        <file>QML/Library.qml</file>
+        <file>QML/Load_Product_More.qml</file>
+        <file>QML/Menus.qml</file>
+        <file>QML/S001.qml</file>
+        <file>QML/S1.qml</file>
+        <file>QML/S002.qml</file>
+        <file>QML/Settings_main.qml</file>
+        <file>QML/SupplierName.qml</file>
+        <file>QML/Swipe_main_Screen.qml</file>
+        <file>QML/System_settings.qml</file>
+        <file>QML/Ulogin.qml</file>
+        <file>icons/Dashboard_icons/bell.svg</file>
+        <file>icons/Dashboard_icons/bell_black.svg</file>
+        <file>icons/Dashboard_icons/bell_red.svg</file>
+        <file>icons/Dashboard_icons/calendar.png</file>
+        <file>icons/Dashboard_icons/calender_icon.png</file>
+        <file>icons/Dashboard_icons/home1.svg</file>
+        <file>icons/Dashboard_icons/left-arrow.svg</file>
+        <file>icons/Dashboard_icons/validation1.svg</file>
+        <file>icons/icons_basic/fingerprint-scanning.svg</file>
+        <file>icons/icons_basic/fingerprint-scanning_black.svg</file>
+        <file>icons/icons_basic/pendrive.svg</file>
+        <file>icons/icons_basic/pendrive_black.svg</file>
+        <file>icons/icons_basic/printer.svg</file>
+        <file>icons/icons_basic/printer_black.svg</file>
+        <file>icons/icons_basic/smartphone.svg</file>
+        <file>icons/icons_basic/smartphone_black.svg</file>
+        <file>icons/Settings_icons/book.svg</file>
+        <file>icons/Settings_icons/chat.svg</file>
+        <file>icons/Settings_icons/data-analytics.svg</file>
+        <file>icons/Settings_icons/history.svg</file>
+        <file>icons/Settings_icons/menu.svg</file>
+        <file>icons/Settings_icons/more.svg</file>
+        <file>icons/Settings_icons/restore.svg</file>
+        <file>icons/Settings_icons/settings.svg</file>
+        <file>icons/Settings_icons/user.svg</file>
+        <file>icons/USB_icons/pdf.svg</file>
+        <file>icons/caret-arrow-up.svg</file>
+        <file>icons/check.svg</file>
+        <file>icons/controls.svg</file>
+        <file>icons/graph.svg</file>
+        <file>icons/miniGif_20210318170022.gif</file>
+        <file>icons/notification.svg</file>
+        <file>icons/pen.svg</file>
+        <file>icons/Untitled-1.svg</file>
+        <file>mp3/notification.mp3</file>
+        <file>PNG/icons8-open-book-64.png</file>
+        <file>PNG/needle.png</file>
+        <file>b.cpp</file>
+        <file>b.h</file>
+        <file>black.cpp</file>
+        <file>black.h</file>
+        <file>QML/Copyy.qml</file>
+        <file>QML/Device_Setting.qml</file>
+        <file>QML/Machine_Type.qml</file>
+        <file>PNG/calendar.png</file>
+        <file>SVG/Screen 1/BlueDots.png</file>
+        <file>SVG/Screen 1/Red_image.png</file>
+        <file>SVG/Screen2/background_screen_2.png</file>
+        <file>SVG/Screen2/circle_signal.svg</file>
+        <file>SVG/Screen2/Component 24 – 1.svg</file>
+        <file>SVG/Screen2/Component 25 – 2.svg</file>
+        <file>SVG/Screen2/Group 4.svg</file>
+        <file>SVG/Screen2/Group 596.svg</file>
+        <file>SVG/Screen2/Group 601 - Copy.svg</file>
+        <file>SVG/Screen2/Group 601.svg</file>
+        <file>SVG/Screen2/Group 601.svg.sketch</file>
+        <file>SVG/Screen2/Group 602 - Copy.svg</file>
+        <file>SVG/Screen2/Group 602 - Copy.svg.sketch</file>
+        <file>SVG/Screen2/Group 602.svg</file>
+        <file>SVG/Screen2/Group 602.svg.sketch</file>
+        <file>SVG/Screen2/Group 849.svg</file>
+        <file>SVG/Screen2/pmd.svg</file>
+        <file>SVG/Screen2/sort-O-met.svg</file>
+        <file>SVG/Screen2/WR_system_llp.svg</file>
+        <file>SVG/select profile/finger print.svg</file>
+        <file>SVG/select profile/red_fp.svg</file>
+        <file>SVG/select profile/user_purple.svg</file>
+        <file>SVG/select profile/user_white_icon.svg</file>
+        <file>SVG/account_circle_black_24dp.svg</file>
+        <file>SVG/Back_button.svg</file>
+        <file>SVG/Book.svg</file>
+        <file>SVG/book_black_24dp.svg</file>
+        <file>SVG/check.svg</file>
+        <file>SVG/check_circle_black_-1.svg</file>
+        <file>SVG/check_circle_black_24dp (1).svg</file>
+        <file>SVG/check_select.svg</file>
+        <file>SVG/Component 28 – 1.svg</file>
+        <file>SVG/Component 40 – 1.svg</file>
+        <file>SVG/Component 40 – 2.svg</file>
+        <file>SVG/Contacts icon.svg</file>
+        <file>SVG/Dashboard -1 – 1.svg.sketch</file>
+        <file>SVG/DD_on.svg</file>
+        <file>SVG/Decrement.svg</file>
+        <file>SVG/Edit_blue_pen.svg</file>
+        <file>SVG/Ellipse 139.svg</file>
+        <file>SVG/Ellipse 142.svg</file>
+        <file>SVG/Ellipse 143.svg</file>
+        <file>SVG/Ellipse 164.svg</file>
+        <file>SVG/Ellipse 169.svg</file>
+        <file>SVG/engineering_black_24dp.svg</file>
+        <file>SVG/event_black_24dp.svg</file>
+        <file>SVG/Fe.svg</file>
+        <file>SVG/filter_alt_black_24dp.svg</file>
+        <file>SVG/fingerprint_black_-1.svg</file>
+        <file>SVG/fingerprint_black_-2.svg</file>
+        <file>SVG/fingerprint_black_-3.svg</file>
+        <file>SVG/fingerprint_black_24dp (1).svg</file>
+        <file>SVG/Group -1.svg</file>
+        <file>SVG/Group 11.svg</file>
+        <file>SVG/Group 12.svg</file>
+        <file>SVG/Group 368.svg</file>
+        <file>SVG/Group 452.svg</file>
+        <file>SVG/Group 453.svg</file>
+        <file>SVG/Group 454.svg</file>
+        <file>SVG/Group 479.svg</file>
+        <file>SVG/Group 480.svg</file>
+        <file>SVG/Group 489.svg</file>
+        <file>SVG/Group 491.svg</file>
+        <file>SVG/Group 596.svg</file>
+        <file>SVG/Group 601.svg.sketch</file>
+        <file>SVG/Group 602.svg.sketch</file>
+        <file>SVG/Group 609 (1).svg</file>
+        <file>SVG/Group 609 - Copy.svg</file>
+        <file>SVG/Group 636.svg</file>
+        <file>SVG/Group 638.svg</file>
+        <file>SVG/Group 639.svg</file>
+        <file>SVG/Group 640.svg</file>
+        <file>SVG/Group 643.svg</file>
+        <file>SVG/Group 648 (1).svg</file>
+        <file>SVG/Group 648.svg</file>
+        <file>SVG/Group 845 (1).svg</file>
+        <file>SVG/Group 845 - Copy.svg</file>
+        <file>SVG/Group 846.svg</file>
+        <file>SVG/Hex_back-1600.png</file>
+        <file>SVG/Hex_back-3200.png</file>
+        <file>SVG/Hex_back-400.png</file>
+        <file>SVG/Hex_back-800.png</file>
+        <file>SVG/Hex_back.svg</file>
+        <file>SVG/Home icon.svg</file>
+        <file>SVG/Increment_blue.svg</file>
+        <file>SVG/keyboard_alt_black_24dp.svg</file>
+        <file>SVG/Mask Group 3.svg</file>
+        <file>SVG/menu_vertical.svg</file>
+        <file>SVG/Neddle_Blue.svg</file>
+        <file>SVG/Needle+blue.svg</file>
+        <file>SVG/nfe.svg</file>
+        <file>SVG/nfe_ovel.svg</file>
+        <file>SVG/Notification_White.svg</file>
+        <file>SVG/OvelBlueAdd.svg</file>
+        <file>SVG/OvelgreenRight.svg</file>
+        <file>SVG/OvelGreyClose.svg</file>
+        <file>SVG/OvelGreyRight.svg</file>
+        <file>SVG/Path 109.svg</file>
+        <file>SVG/Path 130.svg</file>
+        <file>SVG/Path 160.svg</file>
+        <file>SVG/Path 183.svg</file>
+        <file>SVG/Path 187.svg</file>
+        <file>SVG/Path 199.svg</file>
+        <file>SVG/Path 216.svg</file>
+        <file>SVG/Path 238.svg</file>
+        <file>SVG/Path 248.svg</file>
+        <file>SVG/Path 38.svg</file>
+        <file>SVG/Path 40.svg</file>
+        <file>SVG/Path 43.svg</file>
+        <file>SVG/Path 56.svg</file>
+        <file>SVG/Path 62.svg</file>
+        <file>SVG/Path 67.svg</file>
+        <file>SVG/Path 71.svg</file>
+        <file>SVG/Path 75.svg</file>
+        <file>SVG/Path 77.svg</file>
+        <file>SVG/Path 89.svg</file>
+        <file>SVG/Rectangle 1549.svg</file>
+        <file>SVG/Rectangle 1560.svg</file>
+        <file>SVG/red_transprent dots.svg</file>
+        <file>SVG/Reset.svg</file>
+        <file>SVG/Result   Metal Detected.svg</file>
+        <file>SVG/Result   Waiting....svg</file>
+        <file>SVG/SemiRectLeft.svg</file>
+        <file>SVG/SemiRectRight.svg</file>
+        <file>SVG/sort-O-met.svg</file>
+        <file>SVG/ss.svg</file>
+        <file>SVG/ss_ovel.svg</file>
+        <file>SVG/Swipe_blue_down.svg</file>
+        <file>SVG/Swipe_Right_shade_grey.svg</file>
+        <file>SVG/SwipeLeft-104.png</file>
+        <file>SVG/SwipeLeft-13.png</file>
+        <file>SVG/SwipeLeft-26.png</file>
+        <file>SVG/SwipeLeft-52.png</file>
+        <file>SVG/SwipeLeft.svg</file>
+        <file>SVG/Time Out  30 sec.svg</file>
+        <file>SVG/Triangle.svg</file>
+        <file>SVG/Validation-172.png</file>
+        <file>SVG/Validation-344.png</file>
+        <file>SVG/Validation-688.png</file>
+        <file>SVG/Validation-86.png</file>
+        <file>SVG/Validation.svg</file>
+        <file>SVG/Welcome pg-8 – 2.svg</file>
+        <file>SVG/Welcome pg-8.svg</file>
+        <file>SVG/WinRenderSysLogo-1772.png</file>
+        <file>SVG/WinRenderSysLogo-222.png</file>
+        <file>SVG/WinRenderSysLogo-443.png</file>
+        <file>SVG/WinRenderSysLogo-886.png</file>
+        <file>SVG/WinRenderSysLogo.svg</file>
+        <file>SVG/WR Full Logo (CTC).svg</file>
+        <file>SVG/WR Full Logo (CTC).svg.sketch</file>
+        <file>SVG/WRFullLogo.svg</file>
+        <file>SVG/Yellowrect.svg</file>
+        <file>main.cpp</file>
+        <file>QML/FingerPrintScreen.qml</file>
+        <file>QML/Login.qml</file>
+        <file>QML/SelectUserType.qml</file>
+        <file>SVG/Login/icons8-eye-96.png</file>
+        <file>SVG/Login/icons8-hide-96.png</file>
+        <file>SVG/select profile/fp_green.svg</file>
+        <file>QMLNEW/Create_User.qml</file>
+        <file>QMLNEW/DashBoard_Swipe.qml</file>
+        <file>QMLNEW/Delete_User.qml</file>
+        <file>QMLNEW/Edit_User.qml</file>
+        <file>QMLNEW/FingerPrintScreen.qml</file>
+        <file>QMLNEW/Knob.qml</file>
+        <file>QMLNEW/Linear.qml</file>
+        <file>QMLNEW/Login.qml</file>
+        <file>QMLNEW/main.qml</file>
+        <file>QMLNEW/S001.qml</file>
+        <file>QMLNEW/S002.qml</file>
+        <file>QMLNEW/S003.qml</file>
+        <file>QMLNEW/S004.qml</file>
+        <file>QMLNEW/SelectUserType.qml</file>
+        <file>QMLNEW/WaterLevel.qml</file>
+        <file>QMLNEW/WelcomeScreen2.qml</file>
+        <file>QML/Create_User.qml</file>
+        <file>QML/Delete_User.qml</file>
+        <file>QML/Edit_User.qml</file>
+        <file>QML/UserMenu.qml</file>
+        <file>QML/StartUp.qml</file>
+        <file>main.qml</file>
+        <file>QMLNEW/Welcome.qml</file>
+    </qresource>
+</RCC>
